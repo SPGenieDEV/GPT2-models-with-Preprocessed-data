@@ -1,0 +1,105 @@
+issuekey,title,description,storypoint
+RAXMNYCR-362,API Publicizing ,"As the central admin, I was the existing APIs to be publicized with enhanced API security measures, so that these APIs can be shared with the third parties safely. Once the APIs are secured and enhanced to be shared to third party. ",8
+RAXMNYCR-363,BD Ticket - Menu Changes ,"As a general user, I want the existing menu views to be changed while purchasing tickets using the mobile / web app. Two separate menu options should be given in mobile / web apps  ( Purchase Bus Ticket , Purchase Train tickets) and rest of the functionalities will be under the respective menu.",3
+RAXMNYCR-367,App Switching - Web page to Mobile homepage ," As a general user, I want a button in the web view or order to switch to the home page of the mobile application so that the app switch between web page to mobile made easy. Implement a ""Cancel Button"" at the web view while performing a transaction, so that if Cancel button is pressed it will automatically redirected to the home page of the mobile app. ",5
+RAXMNYCR-385,Calculation for Utility payments,"As a Distributor, I want to automatically receive the total commission for the payments done by Robi Agents on behalf of the customers so that I will get the total commission on the following day.When a Robi Agent makes a payment on behalf of the customer, the MMoney platform will first check whether the customer is Robi or Airtel.Once the customers' network is identified, the relevant region will be checked (e.g Dhaka | Chittagong).The commission for utility payments will be calculated based on Mobile network, Customer area and the type of the utility payment.Following are basic utility bill payment types.
+BPDB, DESCO, CWASA, DWASA, WZPDCL, BPDB SMART METER, BPDB PREPAID, DESCO PREPAID, JALALABAD GAS, WZPDCL PREPAID, BPDB HEXING
+Specified commission percentage amounts should be calculated depending on the network, region and utility type.",13
+RAXMNYCR-388,Logic calculation - Train Ticket purchasing ,"As a Distributor, I want to automatically receive the total commission for purchasing Train Tickets by Robi Agents on behalf of the customers so that I will get the total commission on the following day.  When a Robi Agent purchases a train ticket on behalf of the customer,the MMoney platform will first check whether the customer is Robi or Airtel.
+Once the customers' network is identified, the relevant region will be checked (e.g Dhaka | Chittagong).
+The commission for Ticket purchasing will be calculated based on Mobile network, Customer area and for the mode of payment.",8
+RAXMNYCR-391,Airtime Commission Calculation Logic ,"As a Distributor, I want to automatically receive the total commission for Airtime top-ups done by  Robi Agents on behalf of the customers so that I will get the total commission on the following day.When a Robi Agent makes top-up on behalf of the customer, the MMoney platform will first check whether the customer is Robi or Airtel.
+Once the customers' network is identified, the relevant region will be checked (e.g Dhaka | Chittagong).
+The commission for Airtime Top-ups will be calculated based on Mobile network, Customer area and the type of top-up.",5
+RAXMNYCR-394,Log in Screen Development ,"As a Central Admin, I want to Log in to Distributor Commission system so that I will be able to perform necessary functions and configurations in the system.User should be able to log in to the system and perform the privileged functionalities in the system.
+Implementation of the password policy
+Assigned privileges should reflect to the user once logged in",3
+RAXMNYCR-398,SMS Notification,"As a Distributor, I want to receive SMS alerts when the total commission for a day is credited to my wallet so that I will be able to know how much of commission is received from which services.When the relevant commissions are calculated for each agent, the commission should be credited to the respective Distributors wallet at the end of the day.
+When the commission is credited to the Distributor wallet, a SMS notification should be sent to the Distributor containing detailed description of the commission calculated from the particular agent.
+Distributor will be notified of the total commission, of the respective day through SMS to his ‘distributor wallet number’. This will be maintained by admin portal.",5
+RAXMNYCR-401,Email Notification,"As a Distributor, I want to receive Email notification when the total commission for a day is credited to my wallet so that I will be able to know how much of commission is received from which services. When the relevant commissions are calculated for each agent, the commission should be credited to the respective Distributors wallet at the end of the day.
+When the commission is credited to the Distributor wallet, an Email notification should be sent to the Distributor containing detailed description of the commission calculated from the particular agent.
+Distributor will be notified of the total commission, of the respective day through and Email to his ‘distributor wallet number’. This will be maintained by admin portal.
+An email will be send to every distributor based on the commission service (EL, Utility Payment, and Ticketing). ",5
+RAXMNYCR-405,Summary Dashboard ,"As a Central Admin, I want to have a Landing dashboard when I log in to the Commission disbursement system. Only Distributor commission should be displayed initially.",3
+RAXMNYCR-408,Distributor Configuration,"As a Central Admin, I want to configure the Distributor commission percentages based on the distributor types.An option will be available for the user to select start date and end date of the commission service for all the individual distributors.  
+In a dashboard there will a box where we will provide percentage (i.e. someone will get 25% and someone will get 22%) and commission will be disburse as per input. 
+This dashboard will include a drop down or an option to select the distributor type.",5
+RAXMNYCR-412,Percentage Type Definition,"As a Central Admin, I want to define a type of percentage and allocate the percentage type for the Distributor when configuration the commission for the Distributor.",5
+RAXMNYCR-413,Jasper Reporting,"As a Central Admin, I want to download the commission disbursement report so that I will be able to analyse the day to day Agent transactions. User will be able to download the commission disbursement report in Jasper portal sorted based on the options selected (start date & end date, distributor name or number search option, Service wise option,AIT,nett commission). The mentioned options will be available for the user to select. Daily transactions.",3
+RAXMNYCR-417,Developments in current GUI,"As a Central Admin, I want the following developments to be done before the new developments for the new GUIs are done. OTF percentage, Airtel / Robi, Region",3
+RLMS-458,Discount Offers for 3PP," As an admin, I should be able to perform the tasks related to Discount Offers for 3PP.",21
+MDMP-7,Roles add/edit/delete ,"As an MDM system user, I should be able to add/edit/delete roles. (user groups)",3
+MDMP-8,User add/edit/delete/lock/unlock,"As an MDM system user, I should be able to add/edit/delete/lock users.",8
+MDMP-9,Role based access control,"As an MDM system user, I should be able to give role-based access to the roles created by the admin. (user groups)",3
+MDMP-10,My account,"As an MDM system user, I should be able to view, edit my account and change the password of my account.",2
+MDMP-12,Sync device data ,"As an MDM system user, I should be able to see add a device, view device, edit device, and view subscriber profile(details view) interfaces with proper integrations from the backend after the developer sync the device data dump to the device table. (Backend development is there.)",2
+MDMP-15,Configure setting types,"As an MDM system user, I should be able to view setting types.",5
+MDMP-16,Table Creation,"As a MDM system user, I should be able to see add a device, view device, edit device, and view subscriber profile(details view) interfaces with proper integrations from the backend after the developer creates the table in the database. ",2
+MDMP-17,Sync Fields,"As a MDM system user, I should be able to see add a device, view device, edit device, and view subscriber profile(details view) interfaces with proper integrations from the backend after the developer sync fields in the created table in the database. ",2
+MDMP-18,Identify grey market devices ,"As an MDM system user, I should be able to view the grey market reports after performing backend integrations to identify the grey market devices not present in the device database based on the IMEI numbers. ",5
+MDMP-19,History - (EIR),"As an MDM system user, I should be able to view, and download the EIR history report.",2
+MDMP-20,Daily subscriber detail,"As an MDM system user, I should be able to receive the report on daily subscriber detail dump of the full ",3
+MDMP-21, Share updated device,"As an MDM system user, I should be able to receive the updated device dump via sftp to my location.",8
+MDMP-22,Handle check_IMEI requests via diameter(MME & SGSN),"As an MDM system user, I should be able to capture and check IMEI request devices integrated with Dialog MMES AND SGSN",13
+MDMP-23,Handle check_IMEI requests via sigtran (MSC),"As an MDM system user, I should be able to capture and check IMEI request devices integrated with Dialog MSC",8
+MDMP-24,Check HLR(if MSISDN not present),"As an MDM system user, I should be able to check HLR if MSISDN is not present in the check_IMEI request in the system",3
+MDMP-25,"Update MSISDN/IMEI table, redis (get billing type when adding new record)","As an MDM system user, I should be able to view the subscriber profiles(billing types) after performing the backend development of adding new subscribers to the database",5
+MDMP-26,"Update device history table, redis","As an MDM system user, I should be able to able to view device history reports by MSISDN/IMEI/IMSI individually or in combination EIR after completing the backend development of updating the device history table.",3
+MDMP-27,"Automatically send OTA (block based on logics, limit MSISDN and IMEI combination for a configurable period)","As a subscriber, I should be able to receive the device settings when I changed the device settings.",2
+MDMP-28,"Automatically send OTA (block based on logics, limit MSISDN and IMEI combination for a configurable period)","As a subscriber, I should be able to receive the device settings when I changed the device settings.",8
+MDMP-29,Handle device settings request SMS,"As a subscriber, I should be able to send a message to a short code and receive the device settings.",2
+MDMP-30,Cloned IMEI detection,"As a MDM system user, I should be able to detect the use of an IMEI by several IMSI at the same time.",5
+MDMP-31,Configure device settings,"As an MDM system user, I should be able to configure the device settings table.(add,edit,delete)",3
+MDMP-32,Configure MMS,"As an MDM system user, I should be able to configure(edit,add) MMS settings.",8
+MDMP-33,Configure EMAIL,"As an MDM system user, I should be able to configure Email settings.(add,edit)",2
+MDMP-34,Configure WAP,"As an MDM system user, I should be able to configure WAP and DATA settings. (add, edit)",1
+MDMP-35,Configure Sync-ML-DS," As an MDM system user, I should be able to configure Sync-ML-DS settings. (add, edit)",2
+MDMP-36,Configure video streaming,"As an MDM system user, I should be able to configure video streaming settings.(add, edit)",8
+MDMP-37,Configure Push to Talk,"As an MDM system user, I should be able to configure Push to Talk settings. (add, edit)",5
+MDMP-38,Configure mail providers,"As an MDM system user, I should be able to configure the common mail providers.",5
+MDMP-39,View device,"As an MDM system user, I should be able to view the device details of a particular device.",8
+MDMP-40,Add Device,"As an MDM system user, I should be able to add the device details of a particular device.",3
+MDMP-42,Device Config Table,"As an MDM system user, I should be able to configure the device config table to view, edit, delete, add, and search device settings",5
+MDMP-261,Manage configurations,"As an MDM system user, I should be able to manage configurations.",8
+MDMP-262,Start / Stop EIR feature,"As an MDM system user, I should be able to enable and disable the EIR feature.",2
+MDMP-263, Welcome message configuration,"As an MDM system user, I should be able to configure the Welcome Message of the system.",3
+MDMP-270,View subscriber,"As an MDM system user, I should be able to view(search) the subscriber profile and clear the values in the fields.",3
+MDMP-271,Edit subscriber profile,"As an MDM system user, I should be able to edit, and delete the subscriber profile.",5
+MDMP-272,Download subscriber ,"As the tech lead, I should be able to download the subscriber profile",3
+MDMP-273,Add subscriber Profile,"As an MDM system user, I should be able to add a subscriber to the system.",5
+MDMP-274,Device details view -(Basic details),"As an MDM system user, I should be able to view the basic details of the device and backlist a subscriber. ",3
+MDMP-275,Device details view - (Characteristic view-information tab),"As an MDM system user, I should be able to view device information.",5
+MDMP-276,View available device configurations for the device,"As an MDM system user, I should be able to view available configurations for the device.",3
+MDMP-277,Show manual OTA configuration steps,"As an MDM system user, I should be able to view manual OTA configuration steps.",2
+MDMP-278,Manually send OTA SMS,"As an MDM system user, I should be able to send the OTA SMS manually.",2
+MDMP-279,OTA download history,"As an MDM system user, I should be able to view the OTA download history.",5
+MDMP-280,Device change history,"As an MDM system user, I should be able to view the device change history. (device history)",8
+MDMP-281,Block OTA for subscribers (blacklist automatic OTA sending),"As an MDM system user, I should be not able to have OTA for subscribers",2
+MDMP-282,Manually send welcome message,"As an MDM system user, I should be able to send the Welcome SMS manually.",2
+MDMP-283,Add/edit/delete blacklist device,") As an MDM system user, I should be able to add, edit, delete blacklist devices based on the TAC and IMEI lists.",8
+MDMP-284,Search and view EIR List,"As an MDM system user, I should be able to view and search blacklist devices based on the IMEI list and TAC list.",3
+MDMP-285,Add/edit/delete blacklist device,"As an MDM system user, I should be able to add, edit, and delete blacklist devices based on the IMEI-IMSI and IMSI-IMEI lists.",8
+MDMP-286,Search and view EIR List,"As an MDM system user, I should be able to view and search blacklist devices based on the IMEI-IMSI list and IMSI-IMEI list.",3
+MDMP-287,Summary,"As an MDM system user, I should be able to view and download the top brands and top 10 devices.",13
+MDMP-288,Summary Report,"As a MDM system user, I should be able to view and download the summary report of the top 10 models of different bands used by the users.",3
+MDMP-289,"Device Overview - (Generic, Network)","As an MDM system user, I should be able to view and download the generic and network reports.",5
+MDMP-290,"Device Overview - (Media, OTA )","As an MDM system user, I should be able to view and download the media characteristics report and OTA support report.",5
+MDMP-291,"Export - (based on Msisdn, device characteristics download selected fields of device)","As an MDM system user, I should be able to view and download the export report based on MSISDN and should be able to download device characteristics based on the selected field of the device.",8
+MDMP-293,History - (Device History),"As an MDM system user, I should be able to search, view, download, and delete the subscriber device history report.",8
+MDMP-294,History - (Settings History),"As an MDM system user, I should be able to search, view, and download the device OTA settings history report.",3
+MDMP-295,System Monitoring - (System event details),"As an MDM system user, I should be able to search, view, and download the system monitoring report on system event details.",5
+MDMP-300,Create Setting Dispatch Campaign (Dispatch Settings for Upload Number List),"As an MDM system user, I should be able to create settings to a list of numbers in bulk which is given as a text or CSV file, and should be able to add, edit, delete, stop, and pause setting campaigns based on their status.",8
+MDMP-301,Event based campaign table and view option,"As an MDM system user, I should be able to view the event-based campaign table and the view option.",5
+MDMP-302,"Event Configuration (Handset Change etc, 3rd Party API & SMS)","As an MDM system user, I should be able to configure(add, edit, delete) the events such as handset change and third-party APIs&SMS.",8
+MDMP-303,Create Event Based Campaigns,"As an MDM system user, I should be able to add and edit event-based campaigns.",13
+MDMP-304,Execute Campaign,"As an MDM system user, I should be able to execute the campaign.",5
+MDMP-308,Re-direction and authentication,"As an MDM system user, I should be able to login into the MDM system from the CCRM portal. Once I clicked the link in the CCRM portal, I should be redirected to the login page of the MDM platform. ",5
+MDMP-309,Token validation,"As an MDM system user, I should be able to log in to the system after validating the user token.",2
+MDMP-359,Password expiry and reset password,"As an MDM system user, I should be able to reset my password during login, if my password is expired.",2
+MDMP-608, EIR reasons table,"As an MDM system user, I should be able to view, add, and edit EIR reasons.",5
+MDMP-624,Import/download blacklist device(based on TAC/IMEI),"As an MDM system user, I should be able to import and download blacklist devices based on the TAC and IMEI lists.",3
+MDMP-633,Import/download blacklist device(based on IMEI-IMSI/IMSI-IMEI),"As an MDM system user, I should be able to download, and import blacklist devices based on the IMEI-IMSI and IMSI-IMEI lists.",5
+MDMP-640,Audit Log,"As an MDM system user, I should be able to search, and view the audit logs report.",5
+MDMP-713,Configure Wireless Village,"As an MDM system user, I should be able to configure Email settings.(add,edit)",3
+,,,

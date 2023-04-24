@@ -1,0 +1,83 @@
+description,storypoint
+"As a customer, I want to track my order, so that I can know when it will arrive.",5
+"As a user, I want to change my email, so that I can update my contact information.",3
+"As a patient, I want to book an appointment, so that I can consult with a doctor.",8
+"As a team member, I want to upload files, so that I can share documents with my team.",5
+"As a job applicant, I want to submit my application, so that I can be considered for the job.",2
+"As a student, I want to enroll in courses, so that I can learn new skills.",8
+"As a website visitor, I want to search for articles, so that I can find relevant information.",3
+"As a store owner, I want to monitor inventory, so that I can restock items when needed.",5
+"As a photographer, I want to edit my photos, so that I can enhance their quality.",8
+"As a teacher, I want to check student assignments, so that I can provide feedback.",5
+"As a registered user, I want to view my order history, So that I can keep track of my past purchases.",3
+"As an admin, I want to manage user accounts, So that I can ensure proper access control.",8
+"As a customer, I want to reset my password, so that I can access my account securely.",2
+"As a user, I want to enable two-factor authentication, so that my account is more secure.",5
+"As a student, I want to check my grades online, so that I can track my academic progress.",3
+"As a teacher, I want to create and share lesson plans, so that I can provide structured learning experiences.",8
+"As a project manager, I want to assign tasks to team members, so that I can monitor their progress.",5
+"As a content creator, I want to upload and publish my work, so that I can reach a wider audience.",5
+"As a developer, I want to access documentation, so that I can find answers to my questions quickly.",3
+"As a researcher, I want to search for articles, so that I can find relevant information for my project.",3
+"As a job seeker, I want to browse job listings, so that I can find suitable employment opportunities.",3
+"As a photographer, I want to edit and organize my photos, so that I can showcase my best work.",8
+"As an online shopper, I want to track my package, so that I can know when it will arrive.",2
+"Given a guest user, I would like to create an account, so I can access member-only features.",3
+"Given a shopper, I would like to compare product prices, so I can find the best deals.",2
+"Given a blog reader, I would like to leave comments, so I can engage with the author.",3
+"Given a software developer, I would like to report bugs, so I can help improve the application.",5
+"Given a business owner, I would like to track expenses, so I can manage my finances effectively.",8
+"Given a team leader, I would like to schedule meetings, so I can coordinate team activities.",3
+"Given a podcast listener, I would like to save episodes, so I can listen to them later.",2
+"Given a social media user, I would like to set privacy settings, so I can control who sees my content.",3
+"Given a movie watcher, I would like to create a watchlist, so I can keep track of movies I want to see.",2
+"Given a gamer, I would like to connect with friends, so I can play games together.",5
+"Given a designer, I would like to share my designs, so I can receive feedback from peers.",5
+"As an employee, I need to submit my timesheet, so I can get paid on time.",2
+"As a manager, I need to approve time off requests, so I can ensure proper staffing levels.",5
+"As a freelancer, I need to invoice my clients, so I can receive timely payments.",3
+"As a writer, I need to edit my drafts, so I can produce high-quality content.",8
+"As a parent, I need to monitor my child's internet usage, so I can ensure their online safety.",5
+"As a teacher, I need to grade student assignments, so I can provide accurate feedback.",5
+"As a salesperson, I need to update customer records, so I can track sales and leads.",3
+"As a driver, I need to update my delivery status, so I can inform customers about their orders.",2
+"As a scientist, I need to analyze research data, so I can draw meaningful conclusions.",8
+"As a programmer, I need to optimize my code, so I can improve performance and efficiency.",8
+"As a traveler, I need to research destinations, so I can plan enjoyable trips.",3
+"As a/an investor, I need to analyze financial data, so I can make informed investment decisions.",8
+"As a user, I wish to update my profile, so that my information is up-to-date.",2
+"As a student, I wish to enroll in courses, so that my learning is continuous.",8
+"As a teacher, I wish to create quizzes, so that my students are engaged.",5
+"As a developer, I wish to utilize version control, so that my codebase is organized.",5
+"As a manager, I wish to review performance metrics, so that my team's progress is tracked.",8
+"As a patient, I wish to book doctor appointments, so that my health is monitored.",3
+"As a photographer, I wish to backup my photos, so that my work is protected.",5
+"As a researcher, I wish to access scientific journals, so that my knowledge is up-to-date.",8
+"As a marketer, I wish to track campaign performance, so that my strategies are effective.",5
+"As a designer, I wish to receive client feedback, so that my designs meet their needs.",5
+"As a chef, I wish to update the menu, so that my dishes are seasonal.",2
+"As a homeowner, I wish to monitor energy consumption, so that my usage is efficient.",3
+"Given a project manager, I want to assign tasks to team members in order to track progress.",3
+"Given a teacher, I want to create lesson plans in order to organize my classes.",5
+"Given a developer, I want to write clean code in order to improve maintainability.",8
+"Given a student, I want to access study materials in order to enhance my learning.",3
+"Given a marketer, I want to create engaging content in order to attract potential customers.",5
+"Given a customer, I want to compare prices in order to find the best deals.",2
+"Given a data analyst, I want to visualize data trends in order to make informed decisions.",8
+"Given a salesperson, I want to track leads in order to boost sales conversions.",5
+"Given an accountant, I want to reconcile financial records in order to ensure accuracy.",5
+"Given a fitness enthusiast, I want to track my workouts in order to measure progress.",3
+"Given a graphic designer, I want to use design software in order to create compelling visuals.",5
+"Given a job seeker, I want to create a professional resume in order to increase my chances of getting hired.",3
+"As a manager, my goal is to approve employee requests because it helps me manage their workload.",2
+"As a developer, my goal is to write efficient code because it improves overall performance.",8
+"As a teacher, my goal is to provide quality education because it promotes student success.",5
+"As a salesperson, my goal is to build rapport with clients because it fosters long-term relationships.",3
+"As a researcher, my goal is to publish my findings because it contributes to the scientific community.",8
+"As a nutritionist, my goal is to create personalized meal plans because it helps clients achieve their goals.",5
+"As a designer, my goal is to create visually appealing designs because it attracts user attention.",5
+"As a doctor, my goal is to provide accurate diagnoses because it ensures proper patient treatment.",8
+"As an accountant, my goal is to maintain accurate financial records because it helps with budgeting and planning.",5
+"As a marketer, my goal is to optimize marketing campaigns because it increases brand awareness and revenue.",8
+"As a project manager, my goal is to meet project deadlines because it ensures customer satisfaction.",5
+"As a recruiter, my goal is to attract top talent because it contributes to company success.",5
